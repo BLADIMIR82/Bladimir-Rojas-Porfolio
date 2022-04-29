@@ -358,7 +358,7 @@ body.light-theme {
 }
 
 .home__education {
-  color: var(--text-color);
+  color: white;
   margin-bottom: 2.5rem;
 }
 
