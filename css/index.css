@@ -406,6 +406,7 @@ body.light-theme {
 .home__social,
 .home__scroll {
   position: absolute;
+  padding-bottom: 4rem;
 }
 
 .home__social {
@@ -824,6 +825,7 @@ align-items: center;
 
 .testimonial__description {
   font-size: var(--small-font-size);
+  color: #fff;
 }
 
 /*-----------SWIPER----------  */
